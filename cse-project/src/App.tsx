@@ -1,14 +1,11 @@
 
 import './App.css'
-
+import './components/Name.tsx'
+import Name from './components/Name.tsx'
 function App() {
 
   return (
-    <>
-     <h1>
-       Hello World!
-     </h1>
-    </>
+    <Name name="Ali" />
   )
 }
 
