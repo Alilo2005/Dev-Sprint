@@ -5,7 +5,13 @@ import Name from './components/Name.tsx'
 function App() {
 
   return (
-    <Name name="Ali" />
+    <>
+      <Name name="Ali" />
+      <Name name="Ahmed" />
+      <Name name="Umar" />
+      <Name name="Usman" />
+    </>
+
   )
 }
 
