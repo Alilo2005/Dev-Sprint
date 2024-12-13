@@ -1,5 +1,4 @@
 # Dev-Sprint
 ## Next-JS
-## CSE club esi
- This the code has been created after the formation "Dev-Sprint" hand on Next-JS 
- Covering most what happend technically in 13/12/2024
+## CSE Club ESI
+This code was created after the "Dev-Sprint" hands-on session on Next-JS, covering most of what happened technically on 13/12/2024.
