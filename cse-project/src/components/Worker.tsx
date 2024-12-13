@@ -1,4 +1,4 @@
-export default function Worker({name, job, isWorking}: {name: string, job: string, isWorking: boolean}) {
+const Worker = ({name, job, isWorking}: {name: string, job: string, isWorking: boolean}) => {
   return (
     <div>
       <h1>{name}</h1>
@@ -10,3 +10,5 @@ export default function Worker({name, job, isWorking}: {name: string, job: strin
   )
 
 }
+
+export default Worker  
